@@ -23,7 +23,7 @@ Welcome to the Number Guessing Game! This is a simple Python game where the comp
 
 1. Run the game:
     ```sh
-    python number_guessing.py
+    python main.py
     ```
 
 2. Follow the on-screen instructions to play the game:
